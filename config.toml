@@ -1,0 +1,29 @@
+baseURL = "kgaurav.online/"
+languageCode = "en-us"
+title = "Kumar Gaurav - Software Engineer"
+theme = "cactus"
+
+[params]
+  colortheme = "dark" # dark, light, white, or classic
+  description = ""
+  mainSection = ""
+  tagsOverview = false
+  showProjectsList = false
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/measdot"
+
+[[params.social]]
+  name = "email"
+  link = "grv.rkg@gmail.com" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/grvrkg/"

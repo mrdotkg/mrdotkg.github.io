@@ -1,0 +1,39 @@
+name: CI
+
+on:
+    push:
+      branches: [ source ]
+    pull_request:
+      branches: [ source ]
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v2
+        with:
+            ref: source
+
+      - name: Update theme
+        # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
+        run: git submodule update --init --recursive
+
+      - name: Setup hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.74.3"
+          extended: true
+
+      - name: Build
+        # remove --minify tag if you do not need it
+        # docs: https://gohugo.io/hugo-pipes/minification/
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GH_ACTIONS_TOKEN }}
+          publish_dir: ./public
+          #   keep_files: true
+          publish_branch: master
+          cname: kgaurav.online
