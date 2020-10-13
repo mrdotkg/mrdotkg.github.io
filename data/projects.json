@@ -2,13 +2,13 @@
     "list": [
        {
           "name":"ShInn",
-          "url":"https://shinn.butterop.dev/",
-          "desc":"A well architect Virtual Machine as code for development teams."
+          "url":"https://shinn.butterops.dev/",
+          "desc":"Well architect Virtual Machine as code for development teams."
        },
        {
           "name":"ButterOps",
           "url":"https://www.butterops.dev/",
-          "desc":"Open and friendly space for first-timer and veteran developers."
+          "desc":"Open and friendly community for first-timer and veteran developers."
        }
     ]
  } 

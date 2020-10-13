@@ -1,11 +1,11 @@
 baseURL = "https://kgaurav.online/"
 languageCode = "en-us"
-title = "Kumar Gaurav - Software Engineer"
+title = "Kumar Gaurav, Software Engineer"
 theme = "cactus"
 
 [params]
   colortheme = "dark" # dark, light, white, or classic
-  description = ""
+  description = "I create things to empower free learning & OSS. I'm learning about earthship and permaculture these days to create a sustainable living for us. Let me know if we can work together."
   mainSection = ""
   tagsOverview = false
   showProjectsList = false
