@@ -5,7 +5,7 @@ theme = "cactus"
 
 [params]
   colortheme = "dark" # dark, light, white, or classic
-  description = "I create things to empower free learning & OSS. I'm learning about earthship and permaculture these days to create a sustainable living for us. Let me know if we can work together."
+  description = "I create things to empower free learning & OSS. I'm learning about Earthship and Permaculture these days, possibbly to create a sustainable co-operative living. I will be glad to know if we can work together."
   mainSection = ""
   tagsOverview = false
   showProjectsList = false
@@ -21,9 +21,9 @@ weight = 1
   link = "https://github.com/measdot"
 
 [[params.social]]
-  name = "email"
-  link = "grv.rkg@gmail.com" # no need for "mailto:" at the start
-
-[[params.social]]
   name = "linkedin"
   link = "https://www.linkedin.com/in/grvrkg/"
+
+[[params.social]]
+  name = "email"
+  link = "grv.rkg@gmail.com" # no need for "mailto:" at the start
