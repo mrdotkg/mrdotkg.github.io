@@ -18,12 +18,16 @@ weight = 1
 
 [[params.social]]
   name = "github"
-  link = "https://github.com/measdot"
+  link = "https://github.com/mrdotkg/"
 
 [[params.social]]
   name = "linkedin"
-  link = "https://www.linkedin.com/in/grvrkg/"
+  link = "https://www.linkedin.com/in/mrdotkg/"
+
+[[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/mrdotkg/"
 
 [[params.social]]
   name = "email"
-  link = "grv.rkg@gmail.com" # no need for "mailto:" at the start
+  link = "kgaurav@butterops.dev" # no need for "mailto:" at the start
