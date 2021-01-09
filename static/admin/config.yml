@@ -1,6 +1,8 @@
 backend:
   name: github
   repo: mrdotkg/mrdotkg.github.io
+  branch: source
+  base_url: https://kgaurav.online
 
 media_folder: "site/static" # Folder where user uploaded files should go
 public_folder: "images"
