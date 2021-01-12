@@ -2,6 +2,7 @@ baseURL = "https://kgaurav.online/"
 languageCode = "en-us"
 title = "Kumar Gaurav, Software Engineer"
 theme = "cactus"
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   colortheme = "dark" # dark, light, white, or classic
