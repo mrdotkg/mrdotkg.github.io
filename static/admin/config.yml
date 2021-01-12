@@ -4,8 +4,8 @@ backend:
   branch: source
   base_url: http://localhost:3000/
   auth_endpoint: auth
-  site_domain: kgaurav.online
-
+  site_domain: localhost
+  
 media_folder: "site/static" # Folder where user uploaded files should go
 public_folder: "images"
 
