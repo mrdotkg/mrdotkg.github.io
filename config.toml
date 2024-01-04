@@ -1,4 +1,4 @@
-baseURL = "https://kgaurav.online/"
+baseURL = "https://dotkg.in"
 languageCode = "en-us"
 title = "Kumar Gaurav, Software Engineer"
 theme = "cactus"
@@ -31,4 +31,4 @@ weight = 1
 
 [[params.social]]
   name = "email"
-  link = "kgaurav@butterops.dev" # no need for "mailto:" at the start
+  link = "mr@dotkg.in" # no need for "mailto:" at the start

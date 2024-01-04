@@ -36,4 +36,4 @@ jobs:
           publish_dir: ./public
           #   keep_files: true
           publish_branch: master
-          cname: kgaurav.online
+          cname: dotkg.in
