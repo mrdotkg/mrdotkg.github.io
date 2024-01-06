@@ -1,12 +1,12 @@
 baseURL = "https://dotkg.in"
 languageCode = "en-us"
-title = "Kumar Gaurav, Software Engineer"
+title = "Kr Gaurav, Soft. Er."
 theme = "cactus"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
-  colortheme = "light" # dark, light, white, or classic
-  description = "I create things to empower free learning & OSS. I'm learning about Permaculture these days, possibly to create a sustainable co-operative living. I will be glad to know if we can work together."
+  colortheme = "white" # dark, light, white, or classic
+  description = "I create stuffs that empower free learning & OSS. I am also working on a home with sustainable co-operative living."
   mainSection = ""
   tagsOverview = false
   showProjectsList = false
