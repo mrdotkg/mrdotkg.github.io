@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   colortheme = "white" # dark, light, white, or classic
-  description = "I create stuffs that empower free learning & OSS. I am also working on a home with sustainable co-operative living."
+  description = "Coder | Gamer | Rider"
   mainSection = "Posts"
   tagsOverview = false
   showProjectsList = true
