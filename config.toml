@@ -1,6 +1,6 @@
 baseURL = "https://dotkg.in"
 languageCode = "en-us"
-title = "Kr Gaurav, Soft. Er."
+title = "KG gamer/rider/coder"
 theme = "cactus"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
