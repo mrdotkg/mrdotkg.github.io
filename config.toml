@@ -5,7 +5,7 @@ theme = "cactus"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
-  colortheme = "dark" # dark, light, white, or classic
+  colortheme = "light" # dark, light, white, or classic
   description = "I create things to empower free learning & OSS. I'm learning about Permaculture these days, possibly to create a sustainable co-operative living. I will be glad to know if we can work together."
   mainSection = ""
   tagsOverview = false
